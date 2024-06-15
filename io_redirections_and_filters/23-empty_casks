@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laR | tr -s " "
+ls -laR -a | tr -s " "
