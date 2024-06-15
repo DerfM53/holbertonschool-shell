@@ -1,2 +1,2 @@
 #!/bin/bash
-printf (( $DECIMAL#16 )) | tr ' ' '/n'
+echo $ (( $DECIMAL#16 )) | tr " " "/n"
