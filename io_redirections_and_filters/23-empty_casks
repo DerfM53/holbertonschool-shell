@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laR -a
+ls -laR | sort
